@@ -1,0 +1,7 @@
+routes=[["ATH","TBS"],["TBS","DME"],["DME","LCA"],["LCA","TLV"],["TLV","ATH"],
+                                 ["ICN","IKT"],["IKT","DME"],["DME","LED"],
+                                 ["LED","SVO"],["SVO","BEG"],["BEG","TIV"],
+                                 ["SVO","PRG"],["LED","PRG"],
+                                 ["PRG","DUB"],["PRG","MXP"],["PRG","ORY"],["PRG","CRL"],["PRG","AMS"],
+                                 ["DME","AUH"],["AUH","CGK"],["CGK","DPS"],["DPS","SIN"],["SIN","CGK"],
+                                 ["KUL","DPS"],["SIN","BKK"],["SIN","PEK"],["PEK","MSQ"],["MSQ","LED"]]
