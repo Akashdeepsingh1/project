@@ -12,4 +12,5 @@ def heightChecker(heights):
 
 
 heights = [1, 1, 4, 2, 1, 3]
+# [1,1,1,2,3,4]
 print(heightChecker(heights))
